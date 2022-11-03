@@ -1,6 +1,9 @@
 
+<p align="center">
+<img width="60%"  src="https://www.sbr-technologies.com/wp-content/uploads/2021/06/mern.png"/>
+</p>
 
-
+<br/>
 
 <h1 align="center">Hi, I'm Kevin</h1>
 <h3 align="center">Fullstack software developer</h3>
@@ -33,6 +36,10 @@
 
 
 <h1 align="left">⚡ Tech Stack</h1>
+
+<p align="right">
+<img align="right" width="40%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+</p>
 
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
