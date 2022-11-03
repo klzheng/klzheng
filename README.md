@@ -55,19 +55,18 @@
 <br/>
 
 
-<h1 align="left">📈 Stats</h1>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klzheng&show_icons=true&theme=dark&locale=en&layout=compact" alt="klzheng" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=klzheng&show_icons=true&theme=dark&locale=en" alt="klzheng" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klzheng&theme=dark" alt="klzheng" /></p>
+<h1 align="center">📈 Stats</h1>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=klzheng&show_icons=true&theme=dark&locale=en&layout=compact" alt="klzheng" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=klzheng&show_icons=true&theme=dark&locale=en" alt="klzheng" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=klzheng&theme=dark" alt="klzheng" /></p>
 
 <br/>
 
-<h1 align="left">📫 Connect</h1>
-<p align="left">
-
-- Email: klzheng@buffalo.edu
-- Linkedin: klzheng
-- Twitter: klzheng_
+<h1 align="center">📫 Connect</h1>
+<p align="center">
+Email: klzheng@buffalo.edu <br/>
+Linkedin: klzheng <br/>
+Twitter: klzheng_
 
 
 </p>
