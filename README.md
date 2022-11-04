@@ -65,7 +65,6 @@
 <p align="center">
 Email: klzheng@buffalo.edu <br/>
 Linkedin: klzheng <br/>
-Twitter: klzheng_
 
 
 </p>
