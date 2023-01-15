@@ -14,7 +14,7 @@
 </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klzheng" alt="klzheng" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klzheng&theme=gruvbox&margin-w=15&margin-h=15&no-frame=true&column=3&title=Joined2020,Commits,Repositories,Stars,Issues,PullRequest" alt="klzheng" /></a> </p>
 
 <br/>
 
