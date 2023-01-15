@@ -23,14 +23,16 @@
 <p align="left">
 
 - 🌱 Working with **React, NodeJS, and more!**
+  
+- 🐍 Recently learned **DRF** (Django REST framework)
+  
+- 🌐 My latest project was [ReliantGIS](https://reliant-gis.netlify.app/)
 
-- ⚡ Just finished my [TCDb](https://thecinemadb.netlify.app/) project 
-
-- 🧲 And refactored plus added more functionality to my [Weather App](https://klzheng-weather.netlify.app/)
+- ⚡ And my [TCDb](https://thecinemadb.netlify.app/) project 
 
 - 👨‍💻 All of my projects are available at [https://klzheng-portfolio.netlify.app/](https://klzheng-portfolio.netlify.app/) - check it out!
 
-- 📫 Feel free to reach me at **klzheng@buffalo.edu**
+- 📫 Reach me at **klzheng@buffalo.edu**
 </p>
 <br/>
 
@@ -65,8 +67,8 @@
 
 <h1 align="center">📫 Connect</h1>
 <p align="center">
-Email: klzheng@buffalo.edu <br/>
-Linkedin: klzheng <br/>
+<b>Email</b>: klzheng@buffalo.edu <br/>
+<b>Linkedin</b>: in/klzheng <br/>
 
 
 </p>
