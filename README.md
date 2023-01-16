@@ -26,9 +26,9 @@
   
 - 🐍 Recently learned **DRF** (Django REST framework)
   
-- 🌐 My latest project was [ReliantGIS](https://reliant-gis.netlify.app/)
+- 🌐 My latest project was [ReliantGIS](https://reliant-gis.netlify.app/), an online interactive map with interesting datasets and visualizations
 
-- ⚡ And my [TCDb](https://thecinemadb.netlify.app/) project 
+- ⚡ And my [TCDb](https://thecinemadb.netlify.app/) project - a better way to view, save, and rate your favorite shows and movies 
 
 - 👨‍💻 All of my projects are available at [https://klzheng-portfolio.netlify.app/](https://klzheng-portfolio.netlify.app/) - check it out!
 
@@ -53,15 +53,15 @@
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-- ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+- ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
 
 
 <h1 align="center">📈 Stats</h1>
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=klzheng&show_icons=true&theme=dark&locale=en&layout=compact" alt="klzheng" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=klzheng&show_icons=true&theme=dark&locale=en" alt="klzheng" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=klzheng&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=0,393E46,6D9886,D6E4E5&text_color=ffffff&hide_border=true" alt="klzheng" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=klzheng&show_icons=true&theme=dark&locale=en&hide=contribs&count_private=true&bg_color=0,2B3A55,CE7777,E8C4C4&text_color=F2E5E5&hide_border=true" alt="klzheng" /></p>
 
 <br/>
 
