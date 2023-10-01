@@ -6,11 +6,10 @@
 <br/>
 
 <h1 align="center">Hi, I'm Kevin</h1>
-<h3 align="center">Fullstack software developer</h3>
+<h3 align="center">Software Engineer</h3><br/>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=klzheng&label=Profile%20views&color=03969c&style=flat" alt="klzheng" /> 
-
 </p>
 
 
@@ -22,15 +21,17 @@
 <h1 align="left">✨ Currently</h1>
 <p align="left">
 
-- 🌱 Working with **React, NodeJS, and more!**
+- 🌱 Working professionally within the **C#/.NET** environment!
   
-- 🐍 Recently learned **DRF** (Django REST framework)
+- 🐍 Currently learning **React Native** for mobile applications
+
+- 📱 Something that I'm working on is [Productify](https://github.com/ProductifyOrg/productify) - an app intended to boost producitivity for those who have learning impairments
   
-- 🌐 My latest project was [ReliantGIS](https://reliant-gis.netlify.app/), an online interactive map with interesting datasets and visualizations
+- 🌐 My latest solo project was [ReliantGIS](https://reliant-gis.netlify.app/), an online interactive map with interesting datasets and visualizations
 
 - ⚡ And my [TCDb](https://thecinemadb.netlify.app/) project - a better way to view, save, and rate your favorite shows and movies 
 
-- 👨‍💻 All of my projects are available at [https://klzheng-portfolio.netlify.app/](https://klzheng-portfolio.netlify.app/) - check it out!
+- 👨‍💻 All of my projects are directly available on my [Portfolio](https://klzheng-portfolio.netlify.app/) - check it out!
 
 - 📫 Reach me at **klzheng@buffalo.edu**
 </p>
@@ -43,18 +44,19 @@
 <img align="right" width="40%" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 </p>
 
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-- ![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server)
-- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) <br/>
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) <br/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br/>
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) <br/>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) <br/>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br/>
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) <br/>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) <br/>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) <br/>
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) <br/> 
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) <br/>
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <br/>
+![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) <br/>
 
 <br/>
 
