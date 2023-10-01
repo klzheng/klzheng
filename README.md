@@ -33,7 +33,7 @@
 
 - 👨‍💻 All of my projects are directly available on my [Portfolio](https://klzheng-portfolio.netlify.app/) - check it out!
 
-- 📫 Reach me at **klzheng@buffalo.edu**
+- 📫 Reach me at klzheng@buffalo.edu
 </p>
 <br/>
 
