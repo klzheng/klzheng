@@ -25,7 +25,7 @@
   
 - 🐍 Currently learning **React Native** for mobile applications
 
-- 📱 Something that I'm working on is [Productify](https://github.com/ProductifyOrg/productify) - an app intended to boost producitivity for those who have learning impairments
+- 📱 Something that I'm working on is [Productify](https://github.com/ProductifyOrg/productify) - an app intended to boost producitivity for those who have learning needs
   
 - 🌐 My latest solo project was [ReliantGIS](https://reliant-gis.netlify.app/), an online interactive map with interesting datasets and visualizations
 
